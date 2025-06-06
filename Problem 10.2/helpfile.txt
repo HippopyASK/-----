@@ -1,0 +1,28 @@
+#if
+if(condition) opperator;
+else opperator;
+
+#switch
+switch(arg) {
+    case const:
+    stream of opperators
+    break;
+    // ...
+}
+
+#for
+for(intilization; condition; iteration) opperator;
+
+#while
+while(condition) opperator;
+
+#do
+do (
+    opperator
+)while (condition)
+
+#break
+break; or break mark;
+
+#continue
+continue; or continue mark;
